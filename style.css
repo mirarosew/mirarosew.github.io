@@ -1,8 +1,12 @@
 body {
-  background-color:blue
+  background-color:white
 }
 
 h1 {
-  color:pink;
-  font-family:serif;
+  color:#4e8bed;
+  font-family:helvetica;
+}
+
+p {
+  color:#4e8bed
 }
